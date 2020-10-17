@@ -1,0 +1,26 @@
+
+head {
+    Background-color:purple;
+}
+html {
+    Background-color:#8FF157;
+}
+img {
+    height: 375px;
+    width: 275px;
+    border-radius: 20%;
+    float:left;
+     border:10px solid red;
+  padding: 10px;
+}
+li {
+font-family: 'Chilanka', cursive;
+    font-size: 38px;
+}
+h1{
+    font-family: 'Commissioner', sans-serif;
+font-size:50px;
+}
+.container {
+display: flex;
+}
